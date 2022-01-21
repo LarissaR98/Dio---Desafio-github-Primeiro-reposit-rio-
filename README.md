@@ -4,6 +4,7 @@ Meu primeiro repositório de fato, um desafio proposto no Bootcamp de programaç
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissaricardo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](larissaricardo307@gmail.com)
+
 ![Currículo 2022](https://drive.google.com/file/d/10wLPojgAWkw8jfBC-_j39eXtZViFh1ok/view?usp=sharing)
 ## Sobre mim
 
