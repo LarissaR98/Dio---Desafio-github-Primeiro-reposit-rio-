@@ -1,2 +1,3 @@
-# Dio---Desafio-github-Primeiro-reposit-rio-
-Feito no bootcamp Frontend Inter com a DIO.
+# DIO - Desafio github Primeiro repositório
+
+##Feito no bootcamp Frontend Inter com a DIO.
