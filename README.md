@@ -10,4 +10,4 @@ Meu primeiro repositório de fato, um desafio proposto no Bootcamp de programaç
 
 _Estou nos períodos finais da minha graduação Biblioteconomia na Universidade Federal do Estado do Rio de Janeiro, um curso de humanas focado em classificar, organizar e difundir informação de qualquer suporte. Tenho cursos técnicos de administração e pretendo me especializar na área de dados e Marketing. Apaixonada por idiomas, tenho planos de me tornar poliglota aprendendo no mínimo quatro idiomas (Contando com Libras). Educação,integridade e dedicação são meus maiores pilares._
 
-_Atualmente a procura de Estágio/Trabalho_
+_Atualmente a procura de Estágio/Trabalho._
